@@ -1,0 +1,15 @@
+D:\U.K\GHHomeWork\Семинар C#\-C-\SemTask0\bin\Debug\net6.0\SemTask0.exe
+D:\U.K\GHHomeWork\Семинар C#\-C-\SemTask0\bin\Debug\net6.0\SemTask0.deps.json
+D:\U.K\GHHomeWork\Семинар C#\-C-\SemTask0\bin\Debug\net6.0\SemTask0.runtimeconfig.json
+D:\U.K\GHHomeWork\Семинар C#\-C-\SemTask0\bin\Debug\net6.0\SemTask0.dll
+D:\U.K\GHHomeWork\Семинар C#\-C-\SemTask0\bin\Debug\net6.0\SemTask0.pdb
+D:\U.K\GHHomeWork\Семинар C#\-C-\SemTask0\obj\Debug\net6.0\SemTask0.csproj.AssemblyReference.cache
+D:\U.K\GHHomeWork\Семинар C#\-C-\SemTask0\obj\Debug\net6.0\SemTask0.GeneratedMSBuildEditorConfig.editorconfig
+D:\U.K\GHHomeWork\Семинар C#\-C-\SemTask0\obj\Debug\net6.0\SemTask0.AssemblyInfoInputs.cache
+D:\U.K\GHHomeWork\Семинар C#\-C-\SemTask0\obj\Debug\net6.0\SemTask0.AssemblyInfo.cs
+D:\U.K\GHHomeWork\Семинар C#\-C-\SemTask0\obj\Debug\net6.0\SemTask0.csproj.CoreCompileInputs.cache
+D:\U.K\GHHomeWork\Семинар C#\-C-\SemTask0\obj\Debug\net6.0\SemTask0.dll
+D:\U.K\GHHomeWork\Семинар C#\-C-\SemTask0\obj\Debug\net6.0\refint\SemTask0.dll
+D:\U.K\GHHomeWork\Семинар C#\-C-\SemTask0\obj\Debug\net6.0\SemTask0.pdb
+D:\U.K\GHHomeWork\Семинар C#\-C-\SemTask0\obj\Debug\net6.0\SemTask0.genruntimeconfig.cache
+D:\U.K\GHHomeWork\Семинар C#\-C-\SemTask0\obj\Debug\net6.0\ref\SemTask0.dll
